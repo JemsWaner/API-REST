@@ -1,0 +1,52 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Lucía",
+      "email": "lucia@correo.com",
+      "planMovilidad": {
+        "medio": "bicicleta",
+        "distancia": 6,
+        "tiempo": 30,
+        "cambio": "sí",
+        "acceso": "sí"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Angel",
+      "email": "angel@correo.com",
+      "planMovilidad": {
+        "medio": "a pie",
+        "distancia": 6,
+        "tiempo": 30,
+        "cambio": "sí",
+        "acceso": "sí"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Angel",
+      "email": "angel@correo.com",
+      "planMovilidad": {
+        "medio": "a pie",
+        "distancia": 6,
+        "tiempo": 30,
+        "cambio": "sí",
+        "acceso": "sí"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Angel",
+      "email": "angel@correo.com",
+      "planMovilidad": {
+        "medio": "a pie",
+        "distancia": 6,
+        "tiempo": 30,
+        "cambio": "sí",
+        "acceso": "sí"
+      }
+    }
+  ]
+}
